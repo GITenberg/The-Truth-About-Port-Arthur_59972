@@ -1,0 +1,42 @@
+_repo: The-Truth-About-Port-Arthur_59972
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lindsay, A. B. (Alexander Bertram)
+    alias: Lindsay, Alexander Bertram
+    birthdate: 1872
+    deathdate: 1914
+    gutenberg_agent_id: '49316'
+    url: http://www.gutenberg.org/2009/agents/49316
+creator:
+  author:
+    agent_name: Nozhin, E. K. (Evgenii Konstantinovich)
+    aliases:
+    - Nozhin, Evgenii Konstantinovich
+    - Nojine, E. K. (Evgenii Konstantinovich)
+    gutenberg_agent_id: '50717'
+    url: http://www.gutenberg.org/2009/agents/50717
+  editor:
+    agent_name: Swinton, E. D. (Ernest Dunlop)
+    alias: Swinton, Ernest Dunlop
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '26765'
+    url: http://www.gutenberg.org/2009/agents/26765
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Dunlop_Swinton
+description: ''
+gutenberg_issued: '2019-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59972'
+  lccn: '16012979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Lüshun (China) -- History -- Siege, 1904-1905'
+- GITenberg
+title: The Truth About Port Arthur
+url: http://www.gutenberg.org/ebooks/59972
